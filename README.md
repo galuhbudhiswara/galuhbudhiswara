@@ -20,10 +20,3 @@ const aboutMe = {
   other: [Firebase],
 }
 
-##
-<h4 align="left">Im also available at:</h4>
-<p align="left">
-<a href="https://www.linkedin.com/in/galuh-budhiswara-66b16b1b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafka-imanda-putra" height="22" width="30" /></a>
-<a href="https://www.instagram.com/galuhbdhswra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raff_imanda" height="22" width="30" /></a>
-</p>
-
