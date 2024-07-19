@@ -14,9 +14,8 @@ You can click the Preview link to take a look at your changes.
 ```javascript
 const aboutMe = {
   pronouns: 'he' | 'him',
-  language: [Dart, ,Java, Kotlin, HTML, CSS],
-  framework: [Flutter],
+  language: [Dart, Javascript, PHP],
+  framework: [React, Laravel, and Flutter],
   design: [Figma],
-  other: [Firebase],
 }
 
