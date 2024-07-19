@@ -1,8 +1,8 @@
 ## Hello World!
 
 - 👋 Hi, I’m @galuhbudhiswara
-- 👀 I’m interested in Mobile development.
-- 🌱 I’m currently learning UI/UX, FLutter and Firebase.
+- 👀 I’m interested in Web development.
+- 🌱 I'm skilled in Javascript, React, Laravel, and Flutter, and I continue to enhance my expertise in these areas.
 - 📫 How to reach me @galuhbudhiswara280705@gmail.com
 
 <!---
