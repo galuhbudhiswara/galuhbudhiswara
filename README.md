@@ -1,6 +1,6 @@
 ## Hello World!
 
-- 👋 Hi, I’m @galuhbudhiswara
+- 👋 Hi, I’m @galuhbudhiswara/galuhpakuan (budhiswara is my surname)
 - 📫 How to reach me @galuhbudhiswara280705@gmail.com
 
 <!---
